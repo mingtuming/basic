@@ -1,0 +1,31 @@
+body {
+	background: silver;
+	color: white;
+	padding: 20px;
+	font-family: Verdana,Arial,sans-serif;
+	}
+h1 {
+	background: #ffffff;
+	background: hsla(0,100%,100%,0.2);
+	color: #64645a
+	padding: inherit;
+	}
+p {
+	padding: inherit;
+	margin: 10;
+	color: red;
+}
+p.zero {
+	background: rgb(123,232,213);
+}
+p.one {
+	background: rgb(021,167,169);
+}
+p.two {
+	background: rgb(156,053,122);
+}
+p.thee {
+	background: rgb(198,092,233);
+}
+ 
+	
